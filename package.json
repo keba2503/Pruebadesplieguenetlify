@@ -7,8 +7,10 @@
     "lint": "prettier --check \"src/**/*.js\""
   },
   "dependencies": {
+    "express": "^4.17.1",
     "lit-element": "^2.3.1",
-    "lit-html": "^1.2.1"
+    "lit-html": "^1.2.1",
+    "nodemailer": "^6.4.17"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.10.4",
